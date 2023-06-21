@@ -1,3 +1,51 @@
-html {
-    background: rgb(167 167 167);
+body {
+    background-color: #CEAB93
+}
+
+
+#main {
+    background-color: #AD8B73;
+    padding: 21px;
+    color: hsl(0, 0%, 93%);
+    height: 70px;
+    text-align: center;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif
+    
+    
+    
+    
+}
+
+#text {
+  color: #EEEEEE;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  margin-top: -60px;
+  margin-left: 231px;
+}
+
+#text2 {
+  color: #EEEEEE;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  margin-top: -34px;
+  margin-left: 320px;
+}
+
+
+#text3 {
+  color: #EEEEEE;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
+  margin-top: -35px;
+  margin-left: 400px;
+}
+
+#bold {
+  color: #EEEEEE;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: large;
+  margin-top: 50px;
+  text-align: center;
 }
